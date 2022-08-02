@@ -1,0 +1,652 @@
+,Origen,Destino,Tipo,Distancia
+0,Aparcamiento disuasorio Aviación Española,224 - Caramuel,Disuasorio,6779.868246080813
+1,Aparcamiento disuasorio Aviación Española,224 - Caramuel,Publicos Municipales,6779.868246080813
+2,Aparcamiento disuasorio Estadio Metropolitano Sur ES-02b,215 - Gutierre de Cetina,Disuasorio,4728.940914542815
+3,Aparcamiento disuasorio Estadio Metropolitano Sur ES-02b,215 - Gutierre de Cetina,Publicos Municipales,4728.940914542815
+4,Aparcamiento disuasorio Fuente de la Mora,249 - Manuel Caldeiro,Disuasorio,2389.581535310049
+5,Aparcamiento disuasorio Fuente de la Mora,249 - Manuel Caldeiro,Publicos Municipales,2389.581535310049
+6,Aparcamiento disuasorio Islazul,212 - Marqués de Vadillo,Disuasorio,4379.834910372644
+7,Aparcamiento disuasorio Islazul,212 - Marqués de Vadillo,Publicos Municipales,4379.834910372644
+8,Aparcamiento disuasorio Pitis,217 - Pedro Rico,Disuasorio,4564.711799116754
+9,Aparcamiento disuasorio Pitis,217 - Pedro Rico,Publicos Municipales,4564.711799116754
+10,Aparcamiento mixto. Arquitecto Ribera,54 - Barceló,Disuasorio,89.87142547884677
+11,Aparcamiento mixto. Arquitecto Ribera,54 - Barceló,Publicos Municipales,89.87142547884677
+12,Aparcamiento mixto. Arquitecto Ribera,54 - Barceló,Publicos Municipales,89.87142547884677
+13,Aparcamiento mixto. Arquitecto Ribera,54 - Barceló,Residentes,89.87142547884677
+14,Aparcamiento mixto. Avenida de América (intercambiador),195 - Avenida de América 1,Disuasorio,137.35374981376054
+15,Aparcamiento mixto. Avenida de América (intercambiador),195 - Avenida de América 1,Publicos Municipales,137.35374981376054
+16,Aparcamiento mixto. Avenida de América (intercambiador),195 - Avenida de América 1,Publicos Municipales,137.35374981376054
+17,Aparcamiento mixto. Avenida de América (intercambiador),195 - Avenida de América 1,Residentes,137.35374981376054
+18,Aparcamiento mixto. Avenida de Portugal,224 - Caramuel,Disuasorio,1061.925264588354
+19,Aparcamiento mixto. Avenida de Portugal,224 - Caramuel,Publicos Municipales,1061.925264588354
+20,Aparcamiento mixto. Avenida de Portugal,224 - Caramuel,Publicos Municipales,1061.925264588354
+21,Aparcamiento mixto. Avenida de Portugal,224 - Caramuel,Residentes,1061.925264588354
+22,Aparcamiento mixto. Brasil,238 - San Germán 5,Disuasorio,133.5315619816952
+23,Aparcamiento mixto. Brasil,238 - San Germán 5,Publicos Municipales,133.5315619816952
+24,Aparcamiento mixto. Brasil,238 - San Germán 5,Publicos Municipales,133.5315619816952
+25,Aparcamiento mixto. Brasil,238 - San Germán 5,Residentes,133.5315619816952
+26,Aparcamiento mixto. Casino de la Reina,48 - Embajadores 2,Disuasorio,293.2648402471429
+27,Aparcamiento mixto. Casino de la Reina,48 - Embajadores 2,Publicos Municipales,293.2648402471429
+28,Aparcamiento mixto. Casino de la Reina,48 - Embajadores 2,Publicos Municipales,293.2648402471429
+29,Aparcamiento mixto. Casino de la Reina,48 - Embajadores 2,Residentes,293.2648402471429
+30,Aparcamiento mixto. Condesa de Gavia,204 - Cuatro Caminos 2,Disuasorio,315.64108082868614
+31,Aparcamiento mixto. Condesa de Gavia,204 - Cuatro Caminos 2,Publicos Municipales,315.64108082868614
+32,Aparcamiento mixto. Condesa de Gavia,204 - Cuatro Caminos 2,Publicos Municipales,315.64108082868614
+33,Aparcamiento mixto. Condesa de Gavia,204 - Cuatro Caminos 2,Residentes,315.64108082868614
+34,Aparcamiento mixto. Corona Boreal,261 - Facultad Derecho,Disuasorio,6059.666372158253
+35,Aparcamiento mixto. Corona Boreal,261 - Facultad Derecho,Publicos Municipales,6059.666372158253
+36,Aparcamiento mixto. Corona Boreal,261 - Facultad Derecho,Residentes,6059.666372158253
+37,Aparcamiento mixto. Daoíz y Velarde,79 - Puerta de Granada,Disuasorio,352.6807369908137
+38,Aparcamiento mixto. Daoíz y Velarde,79 - Puerta de Granada,Publicos Municipales,352.6807369908137
+39,Aparcamiento mixto. Daoíz y Velarde,79 - Puerta de Granada,Publicos Municipales,352.6807369908137
+40,Aparcamiento mixto. Daoíz y Velarde,79 - Puerta de Granada,Residentes,352.6807369908137
+41,Aparcamiento mixto. Díaz Porlier,191 - Diego de león,Disuasorio,194.3836362239682
+42,Aparcamiento mixto. Díaz Porlier,191 - Diego de león,Publicos Municipales,194.3836362239682
+43,Aparcamiento mixto. Díaz Porlier,191 - Diego de león,Publicos Municipales,194.3836362239682
+44,Aparcamiento mixto. Díaz Porlier,191 - Diego de león,Residentes,194.3836362239682
+45,Aparcamiento mixto. Encuentro,220 - Plaza del Encuentro,Disuasorio,100.64297975836168
+46,Aparcamiento mixto. Encuentro,220 - Plaza del Encuentro,Publicos Municipales,100.64297975836168
+47,Aparcamiento mixto. Encuentro,220 - Plaza del Encuentro,Publicos Municipales,100.64297975836168
+48,Aparcamiento mixto. Encuentro,220 - Plaza del Encuentro,Residentes,100.64297975836168
+49,Aparcamiento mixto. Felipe II,100 - Palacio de Deportes,Disuasorio,76.91802452196796
+50,Aparcamiento mixto. Felipe II,100 - Palacio de Deportes,Publicos Municipales,76.91802452196796
+51,Aparcamiento mixto. Felipe II,100 - Palacio de Deportes,Publicos Municipales,76.91802452196796
+52,Aparcamiento mixto. Felipe II,100 - Palacio de Deportes,Residentes,76.91802452196796
+53,Aparcamiento mixto. Fernández Shaw,77 - Conde de Casal,Disuasorio,131.82730250218097
+54,Aparcamiento mixto. Fernández Shaw,77 - Conde de Casal,Publicos Municipales,131.82730250218097
+55,Aparcamiento mixto. Fernández Shaw,77 - Conde de Casal,Residentes,131.82730250218097
+56,Aparcamiento mixto. Fuencarral,4 - Malasaña,Disuasorio,106.7196861636779
+57,Aparcamiento mixto. Fuencarral,4 - Malasaña,Publicos Municipales,106.7196861636779
+58,Aparcamiento mixto. Fuencarral,4 - Malasaña,Publicos Municipales,106.7196861636779
+59,Aparcamiento mixto. Fuencarral,4 - Malasaña,Residentes,106.7196861636779
+60,Aparcamiento mixto. Hernani,204 - Cuatro Caminos 2,Disuasorio,118.47878746490018
+61,Aparcamiento mixto. Hernani,204 - Cuatro Caminos 2,Publicos Municipales,118.47878746490018
+62,Aparcamiento mixto. Hernani,204 - Cuatro Caminos 2,Publicos Municipales,118.47878746490018
+63,Aparcamiento mixto. Hernani,204 - Cuatro Caminos 2,Residentes,118.47878746490018
+64,Aparcamiento mixto. Jacinto Benavente,34 - Jacinto Benavente,Disuasorio,48.07651262386473
+65,Aparcamiento mixto. Jacinto Benavente,34 - Jacinto Benavente,Publicos Municipales,48.07651262386473
+66,Aparcamiento mixto. Jacinto Benavente,34 - Jacinto Benavente,Publicos Municipales,48.07651262386473
+67,Aparcamiento mixto. Jacinto Benavente,34 - Jacinto Benavente,Residentes,48.07651262386473
+68,Aparcamiento mixto. José Castán Tobeñas,209 - Plaza de Castilla 2,Disuasorio,345.9906523141357
+69,Aparcamiento mixto. José Castán Tobeñas,209 - Plaza de Castilla 2,Publicos Municipales,345.9906523141357
+70,Aparcamiento mixto. José Castán Tobeñas,209 - Plaza de Castilla 2,Publicos Municipales,345.9906523141357
+71,Aparcamiento mixto. José Castán Tobeñas,209 - Plaza de Castilla 2,Residentes,345.9906523141357
+72,Aparcamiento mixto. Marqués de Salamanca,186 - General Pardiñas,Disuasorio,188.6823115422825
+73,Aparcamiento mixto. Marqués de Salamanca,186 - General Pardiñas,Publicos Municipales,188.6823115422825
+74,Aparcamiento mixto. Marqués de Salamanca,186 - General Pardiñas,Publicos Municipales,188.6823115422825
+75,Aparcamiento mixto. Marqués de Salamanca,186 - General Pardiñas,Residentes,188.6823115422825
+76,Aparcamiento mixto. Miguel Yuste,215 - Gutierre de Cetina,Disuasorio,2128.1924435183987
+77,Aparcamiento mixto. Miguel Yuste,215 - Gutierre de Cetina,Publicos Municipales,2128.1924435183987
+78,Aparcamiento mixto. Miguel Yuste,215 - Gutierre de Cetina,Publicos Municipales,2128.1924435183987
+79,Aparcamiento mixto. Miguel Yuste,215 - Gutierre de Cetina,Residentes,2128.1924435183987
+80,Aparcamiento mixto. Montalbán,65 - Antonio Maura,Disuasorio,241.89719765175903
+81,Aparcamiento mixto. Montalbán,65 - Antonio Maura,Publicos Municipales,241.89719765175903
+82,Aparcamiento mixto. Montalbán,65 - Antonio Maura,Publicos Municipales,241.89719765175903
+83,Aparcamiento mixto. Montalbán,65 - Antonio Maura,Residentes,241.89719765175903
+84,Aparcamiento mixto. Orense,206 - Metro Tetuán,Disuasorio,327.89920866899485
+85,Aparcamiento mixto. Orense,206 - Metro Tetuán,Publicos Municipales,327.89920866899485
+86,Aparcamiento mixto. Orense,206 - Metro Tetuán,Publicos Municipales,327.89920866899485
+87,Aparcamiento mixto. Orense,206 - Metro Tetuán,Residentes,327.89920866899485
+88,Aparcamiento mixto. Pedro Zerolo 'antes denominado Vázquez de Mella',18 - Plaza de Pedro Zerolo,Disuasorio,34.251344331048735
+89,Aparcamiento mixto. Pedro Zerolo 'antes denominado Vázquez de Mella',18 - Plaza de Pedro Zerolo,Publicos Municipales,34.251344331048735
+90,Aparcamiento mixto. Pedro Zerolo 'antes denominado Vázquez de Mella',18 - Plaza de Pedro Zerolo,Publicos Municipales,34.251344331048735
+91,Aparcamiento mixto. Pedro Zerolo 'antes denominado Vázquez de Mella',18 - Plaza de Pedro Zerolo,Residentes,34.251344331048735
+92,Aparcamiento mixto. Plaza de Oriente,36 - Plaza Ramales,Disuasorio,95.04977562880008
+93,Aparcamiento mixto. Plaza de Oriente,36 - Plaza Ramales,Publicos Municipales,95.04977562880008
+94,Aparcamiento mixto. Plaza de Oriente,36 - Plaza Ramales,Publicos Municipales,95.04977562880008
+95,Aparcamiento mixto. Plaza de Oriente,36 - Plaza Ramales,Residentes,95.04977562880008
+96,Aparcamiento mixto. Plaza de Santo Domingo (cerrado),23 - Santo Domingo,Disuasorio,48.59809886755003
+97,Aparcamiento mixto. Plaza de Santo Domingo (cerrado),23 - Santo Domingo,Publicos Municipales,48.59809886755003
+98,Aparcamiento mixto. Plaza de Santo Domingo (cerrado),23 - Santo Domingo,Publicos Municipales,48.59809886755003
+99,Aparcamiento mixto. Plaza de Santo Domingo (cerrado),23 - Santo Domingo,Residentes,48.59809886755003
+100,Aparcamiento mixto. Plaza Mayor,31 - Calle Mayor,Disuasorio,55.101082238713744
+101,Aparcamiento mixto. Plaza Mayor,31 - Calle Mayor,Publicos Municipales,55.101082238713744
+102,Aparcamiento mixto. Plaza Mayor,31 - Calle Mayor,Publicos Municipales,55.101082238713744
+103,Aparcamiento mixto. Plaza Mayor,31 - Calle Mayor,Residentes,55.101082238713744
+104,Aparcamiento mixto. Presidente Carmona,152 - General Perón 1,Disuasorio,193.9562837491299
+105,Aparcamiento mixto. Presidente Carmona,152 - General Perón 1,Publicos Municipales,193.9562837491299
+106,Aparcamiento mixto. Presidente Carmona,152 - General Perón 1,Publicos Municipales,193.9562837491299
+107,Aparcamiento mixto. Presidente Carmona,152 - General Perón 1,Residentes,193.9562837491299
+108,Aparcamiento mixto. Recoletos (cerrado),86 - Cibeles,Disuasorio,260.68078049684163
+109,Aparcamiento mixto. Recoletos (cerrado),86 - Cibeles,Publicos Municipales,260.68078049684163
+110,Aparcamiento mixto. Recoletos (cerrado),86 - Cibeles,Publicos Municipales,260.68078049684163
+111,Aparcamiento mixto. Recoletos (cerrado),86 - Cibeles,Residentes,260.68078049684163
+112,Aparcamiento mixto. República Dominicana,160 - Colombia,Disuasorio,181.91543082783053
+113,Aparcamiento mixto. República Dominicana,160 - Colombia,Publicos Municipales,181.91543082783053
+114,Aparcamiento mixto. República Dominicana,160 - Colombia,Publicos Municipales,181.91543082783053
+115,Aparcamiento mixto. República Dominicana,160 - Colombia,Residentes,181.91543082783053
+116,Aparcamiento mixto. Reyes Magos,76 - Puerta de Mariano de Cavia,Disuasorio,214.4566346686059
+117,Aparcamiento mixto. Reyes Magos,76 - Puerta de Mariano de Cavia,Publicos Municipales,214.4566346686059
+118,Aparcamiento mixto. Reyes Magos,76 - Puerta de Mariano de Cavia,Publicos Municipales,214.4566346686059
+119,Aparcamiento mixto. Reyes Magos,76 - Puerta de Mariano de Cavia,Residentes,214.4566346686059
+120,Aparcamiento mixto. San Cayetano,243 - Cartagena,Disuasorio,78.90167897713306
+121,Aparcamiento mixto. San Cayetano,243 - Cartagena,Publicos Municipales,78.90167897713306
+122,Aparcamiento mixto. San Cayetano,243 - Cartagena,Publicos Municipales,78.90167897713306
+123,Aparcamiento mixto. San Cayetano,243 - Cartagena,Residentes,78.90167897713306
+124,Aparcamiento mixto. San Germán II (antes General Yagüe),238 - San Germán 5,Disuasorio,139.89195884321649
+125,Aparcamiento mixto. San Germán II (antes General Yagüe),238 - San Germán 5,Publicos Municipales,139.89195884321649
+126,Aparcamiento mixto. San Germán II (antes General Yagüe),238 - San Germán 5,Publicos Municipales,139.89195884321649
+127,Aparcamiento mixto. San Germán II (antes General Yagüe),238 - San Germán 5,Residentes,139.89195884321649
+128,Aparcamiento mixto. Sánchez Bustillo,50 - Museo Reina Sofía,Disuasorio,116.44937873487751
+129,Aparcamiento mixto. Sánchez Bustillo,50 - Museo Reina Sofía,Publicos Municipales,116.44937873487751
+130,Aparcamiento mixto. Sánchez Bustillo,50 - Museo Reina Sofía,Publicos Municipales,116.44937873487751
+131,Aparcamiento mixto. Sánchez Bustillo,50 - Museo Reina Sofía,Residentes,116.44937873487751
+132,Aparcamiento mixto. Serrano I,142 - Castellana 42,Disuasorio,246.02957261866268
+133,Aparcamiento mixto. Serrano I,142 - Castellana 42,Publicos Municipales,246.02957261866268
+134,Aparcamiento mixto. Serrano I,142 - Castellana 42,Publicos Municipales,246.02957261866268
+135,Aparcamiento mixto. Serrano I,142 - Castellana 42,Residentes,246.02957261866268
+136,Aparcamiento mixto. Serrano II,103 - Ortega y Gasset,Disuasorio,196.9179030059348
+137,Aparcamiento mixto. Serrano II,103 - Ortega y Gasset,Publicos Municipales,196.9179030059348
+138,Aparcamiento mixto. Serrano II,103 - Ortega y Gasset,Publicos Municipales,196.9179030059348
+139,Aparcamiento mixto. Serrano II,103 - Ortega y Gasset,Residentes,196.9179030059348
+140,Aparcamiento mixto. Serrano III,93 - Plaza de Colón,Disuasorio,144.9039033119678
+141,Aparcamiento mixto. Serrano III,93 - Plaza de Colón,Publicos Municipales,144.9039033119678
+142,Aparcamiento mixto. Serrano III,93 - Plaza de Colón,Publicos Municipales,144.9039033119678
+143,Aparcamiento mixto. Serrano III,93 - Plaza de Colón,Residentes,144.9039033119678
+144,Aparcamiento mixto. Sevilla,28 - Sevilla,Disuasorio,157.81281055111762
+145,Aparcamiento mixto. Sevilla,28 - Sevilla,Publicos Municipales,157.81281055111762
+146,Aparcamiento mixto. Sevilla,28 - Sevilla,Publicos Municipales,157.81281055111762
+147,Aparcamiento mixto. Sevilla,28 - Sevilla,Residentes,157.81281055111762
+148,Aparcamiento mixto. Velázquez - Ayala,87 - Ayala,Disuasorio,117.6327932510932
+149,Aparcamiento mixto. Velázquez - Ayala,87 - Ayala,Publicos Municipales,117.6327932510932
+150,Aparcamiento mixto. Velázquez - Ayala,87 - Ayala,Publicos Municipales,117.6327932510932
+151,Aparcamiento mixto. Velázquez - Ayala,87 - Ayala,Residentes,117.6327932510932
+152,Aparcamiento mixto. Velázquez - Jorge Juan,90 - General Pardiñas,Disuasorio,96.79410466129646
+153,Aparcamiento mixto. Velázquez - Jorge Juan,90 - General Pardiñas,Publicos Municipales,96.79410466129646
+154,Aparcamiento mixto. Velázquez - Jorge Juan,90 - General Pardiñas,Publicos Municipales,96.79410466129646
+155,Aparcamiento mixto. Velázquez - Jorge Juan,90 - General Pardiñas,Residentes,96.79410466129646
+156,Aparcamiento mixto. Verdaguer y García,231 - Derechos Humanos,Disuasorio,87.64367338851844
+157,Aparcamiento mixto. Verdaguer y García,231 - Derechos Humanos,Publicos Municipales,87.64367338851844
+158,Aparcamiento mixto. Verdaguer y García,231 - Derechos Humanos,Publicos Municipales,87.64367338851844
+159,Aparcamiento mixto. Verdaguer y García,231 - Derechos Humanos,Residentes,87.64367338851844
+160,Aparcamiento público. Almagro,198 - Rubén Darío,Disuasorio,359.4549313988771
+161,Aparcamiento público. Almagro,198 - Rubén Darío,Publicos Municipales,359.4549313988771
+162,Aparcamiento público. Auditorio Nacional de Música (Príncipe de Vergara),146 - María Francisca 1,Disuasorio,113.32984476678456
+163,Aparcamiento público. Auditorio Nacional de Música (Príncipe de Vergara),146 - María Francisca 1,Publicos Municipales,113.32984476678456
+164,Aparcamiento público. Descalzas,25b - Plaza de Celenque B,Disuasorio,91.6433348541495
+165,Aparcamiento público. Descalzas,25b - Plaza de Celenque B,Publicos Municipales,91.6433348541495
+166,Aparcamiento público. Glorieta Puerta de Toledo,45 - Puerta de Toledo,Disuasorio,124.78369761214782
+167,Aparcamiento público. Glorieta Puerta de Toledo,45 - Puerta de Toledo,Publicos Municipales,124.78369761214782
+168,Aparcamiento público. Las Cortes,29 - Marqués de Cubas,Disuasorio,68.68226106912992
+169,Aparcamiento público. Las Cortes,29 - Marqués de Cubas,Publicos Municipales,68.68226106912992
+170,Aparcamiento público. Luna - Tudescos,2 - Miguel Moya,Disuasorio,101.17027947380367
+171,Aparcamiento público. Luna - Tudescos,2 - Miguel Moya,Publicos Municipales,101.17027947380367
+172,Aparcamiento público. Marqués de Urquijo,117 - Altamirano,Disuasorio,160.03525375896191
+173,Aparcamiento público. Marqués de Urquijo,117 - Altamirano,Publicos Municipales,160.03525375896191
+174,Aparcamiento público. Mostenses,16 - San Bernardo,Disuasorio,151.32346096756729
+175,Aparcamiento público. Mostenses,16 - San Bernardo,Publicos Municipales,151.32346096756729
+176,Aparcamiento público. Museo de la Ciudad,146 - María Francisca 1,Disuasorio,83.2444935651548
+177,Aparcamiento público. Museo de la Ciudad,146 - María Francisca 1,Publicos Municipales,83.2444935651548
+178,Aparcamiento público. Olavide,126 - General Álvarez de Castro,Disuasorio,194.3101462761014
+179,Aparcamiento público. Olavide,126 - General Álvarez de Castro,Publicos Municipales,194.3101462761014
+180,Aparcamiento público. Plaza de Colón,93 - Plaza de Colón,Disuasorio,87.57180133931968
+181,Aparcamiento público. Plaza de Colón,93 - Plaza de Colón,Publicos Municipales,87.57180133931968
+182,Aparcamiento público. Plaza de España,116b - Plaza de España B,Disuasorio,125.10707525645276
+183,Aparcamiento público. Plaza de España,116b - Plaza de España B,Publicos Municipales,125.10707525645276
+184,Aparcamiento público. Plaza de España,116b - Plaza de España B,Publicos Municipales,125.10707525645276
+185,Aparcamiento público. Plaza de España,116b - Plaza de España B,Residentes,125.10707525645276
+186,Aparcamiento público. Plaza del Carmen (cerrado),56 - Plaza del Carmen ,Disuasorio,20.692881294479943
+187,Aparcamiento público. Plaza del Carmen (cerrado),56 - Plaza del Carmen ,Publicos Municipales,20.692881294479943
+188,Aparcamiento público. Plaza del Rey,20a - Banco de España A,Disuasorio,115.64003077219114
+189,Aparcamiento público. Plaza del Rey,20a - Banco de España A,Publicos Municipales,115.64003077219114
+190,Aparcamiento público. Santa Ana,52 - Plaza de Santa Ana,Disuasorio,54.609597166262496
+191,Aparcamiento público. Santa Ana,52 - Plaza de Santa Ana,Publicos Municipales,54.609597166262496
+192,Aparcamiento público. Usera,222 - Antonio López,Disuasorio,675.3291355937121
+193,Aparcamiento público. Usera,222 - Antonio López,Publicos Municipales,675.3291355937121
+194,Aparcamiento público. Velázquez - Juan Bravo,88 - Embajada de Italia,Disuasorio,82.37736004252442
+195,Aparcamiento público. Velázquez - Juan Bravo,88 - Embajada de Italia,Publicos Municipales,82.37736004252442
+196,Aparcamiento público. Villa de París,10 - Marqués de la Ensenada,Disuasorio,22.50365979567973
+197,Aparcamiento público. Villa de París,10 - Marqués de la Ensenada,Publicos Municipales,22.50365979567973
+198,Aparcamiento para residentes del Centro Polivalente Barceló,54 - Barceló,Publicos Municipales,78.49686708954485
+199,Aparcamiento para residentes del Centro Polivalente Barceló,54 - Barceló,Residentes,78.49686708954485
+200,Aparcamiento para residentes.  Ginzo de Limia,217 - Pedro Rico,Publicos Municipales,1570.0175607182746
+201,Aparcamiento para residentes.  Ginzo de Limia,217 - Pedro Rico,Residentes,1570.0175607182746
+202,Aparcamiento para residentes.  Valderromán,239 - Francos Rodríguez,Publicos Municipales,2170.92534604252
+203,Aparcamiento para residentes.  Valderromán,239 - Francos Rodríguez,Residentes,2170.92534604252
+204,Aparcamiento para residentes. Aguilar de Campóo,239 - Francos Rodríguez,Publicos Municipales,1554.352397536213
+205,Aparcamiento para residentes. Aguilar de Campóo,239 - Francos Rodríguez,Residentes,1554.352397536213
+206,Aparcamiento para residentes. Aguilón,175 - Jaime el Conquistador,Publicos Municipales,283.0651429204154
+207,Aparcamiento para residentes. Aguilón,175 - Jaime el Conquistador,Residentes,283.0651429204154
+208,Aparcamiento para residentes. Agustín Lara,44 - Plaza de Nelson Mandela,Publicos Municipales,231.38090491627835
+209,Aparcamiento para residentes. Agustín Lara,44 - Plaza de Nelson Mandela,Residentes,231.38090491627835
+210,Aparcamiento para residentes. Alameda (cerrado),67 - Almadén,Publicos Municipales,101.52428970479193
+211,Aparcamiento para residentes. Alameda (cerrado),67 - Almadén,Residentes,101.52428970479193
+212,Aparcamiento para residentes. Alcalde Sáinz de Baranda,72 - Sainz de Baranda,Publicos Municipales,167.50911968313193
+213,Aparcamiento para residentes. Alcalde Sáinz de Baranda,72 - Sainz de Baranda,Residentes,167.50911968313193
+214,Aparcamiento para residentes. Alcántara,44 - Plaza de Nelson Mandela,Publicos Municipales,231.38090491627835
+215,Aparcamiento para residentes. Alcántara,44 - Plaza de Nelson Mandela,Residentes,231.38090491627835
+216,Aparcamiento para residentes. Alcazaba,207 - Remonta,Publicos Municipales,1288.3807880417523
+217,Aparcamiento para residentes. Alcazaba,207 - Remonta,Residentes,1288.3807880417523
+218,Aparcamiento para residentes. Alonso Cano,129 - José Abascal,Publicos Municipales,169.42438373314798
+219,Aparcamiento para residentes. Alonso Cano,129 - José Abascal,Residentes,169.42438373314798
+220,Aparcamiento para residentes. Altos de Lillo,221 - Pavones,Publicos Municipales,3317.97411121628
+221,Aparcamiento para residentes. Altos de Lillo,221 - Pavones,Residentes,3317.97411121628
+222,Aparcamiento para residentes. Aluche,224 - Caramuel,Publicos Municipales,3845.492462894523
+223,Aparcamiento para residentes. Aluche,224 - Caramuel,Residentes,3845.492462894523
+224,Aparcamiento para residentes. América Española,187 - Alcalá-Ventas,Publicos Municipales,247.20368492863324
+225,Aparcamiento para residentes. América Española,187 - Alcalá-Ventas,Residentes,247.20368492863324
+226,Aparcamiento para residentes. Andévalo,227 - Concordia,Publicos Municipales,2177.5753688422114
+227,Aparcamiento para residentes. Andévalo,227 - Concordia,Residentes,2177.5753688422114
+228,Aparcamiento para residentes. Andorra II,230 - Carlota O’Neill,Publicos Municipales,1830.3324164619444
+229,Aparcamiento para residentes. Andorra II,230 - Carlota O’Neill,Residentes,1830.3324164619444
+230,Aparcamiento para residentes. Angel Carbajo,207 - Remonta,Publicos Municipales,365.4534847746541
+231,Aparcamiento para residentes. Angel Carbajo,207 - Remonta,Residentes,365.4534847746541
+232,Aparcamiento para residentes. Antonio López,212 - Marqués de Vadillo,Publicos Municipales,350.334481370694
+233,Aparcamiento para residentes. Antonio López,212 - Marqués de Vadillo,Residentes,350.334481370694
+234,Aparcamiento para residentes. Antonio Machado,239 - Francos Rodríguez,Publicos Municipales,1659.344207639302
+235,Aparcamiento para residentes. Antonio Machado,239 - Francos Rodríguez,Residentes,1659.344207639302
+236,Aparcamiento para residentes. Antonio Maura,65 - Antonio Maura,Publicos Municipales,149.31734556565644
+237,Aparcamiento para residentes. Antonio Maura,65 - Antonio Maura,Residentes,149.31734556565644
+238,Aparcamiento para residentes. Antonio Mena,219 - Marroquina,Publicos Municipales,611.1017053841675
+239,Aparcamiento para residentes. Antonio Mena,219 - Marroquina,Residentes,611.1017053841675
+240,Aparcamiento para residentes. Antonio Pirala,188 - Puente de Ventas,Publicos Municipales,290.6014654443844
+241,Aparcamiento para residentes. Antonio Pirala,188 - Puente de Ventas,Residentes,290.6014654443844
+242,Aparcamiento para residentes. Arganda,174 - Madrid Río-Yeserías,Publicos Municipales,315.71859404714115
+243,Aparcamiento para residentes. Arganda,174 - Madrid Río-Yeserías,Residentes,315.71859404714115
+244,Aparcamiento para residentes. Arroyo del Olivar,226 - Sierra Toledana,Publicos Municipales,1042.6669199636367
+245,Aparcamiento para residentes. Arroyo del Olivar,226 - Sierra Toledana,Residentes,1042.6669199636367
+246,Aparcamiento para residentes. Arroyo Fontarrón,220 - Plaza del Encuentro,Publicos Municipales,191.15995919175165
+247,Aparcamiento para residentes. Arroyo Fontarrón,220 - Plaza del Encuentro,Residentes,191.15995919175165
+248,Aparcamiento para residentes. Arroyo Media Legua,218 - Camino Vinateros,Publicos Municipales,261.59210580034835
+249,Aparcamiento para residentes. Arroyo Media Legua,218 - Camino Vinateros,Residentes,261.59210580034835
+250,Aparcamiento para residentes. Augusto González Besada,219 - Marroquina,Publicos Municipales,318.27068684451143
+251,Aparcamiento para residentes. Augusto González Besada,219 - Marroquina,Residentes,318.27068684451143
+252,Aparcamiento para residentes. Avenida de las Águilas (antes General Fanjul),224 - Caramuel,Publicos Municipales,6917.010725473794
+253,Aparcamiento para residentes. Avenida de las Águilas (antes General Fanjul),224 - Caramuel,Residentes,6917.010725473794
+254,Aparcamiento para residentes. Azuaga,239 - Francos Rodríguez,Publicos Municipales,974.2715348809606
+255,Aparcamiento para residentes. Azuaga,239 - Francos Rodríguez,Residentes,974.2715348809606
+256,Aparcamiento para residentes. Bañeza,239 - Francos Rodríguez,Publicos Municipales,2292.5946855498587
+257,Aparcamiento para residentes. Bañeza,239 - Francos Rodríguez,Residentes,2292.5946855498587
+258,Aparcamiento para residentes. Baviera,251 - Corazón de María,Publicos Municipales,404.2034196070191
+259,Aparcamiento para residentes. Baviera,251 - Corazón de María,Residentes,404.2034196070191
+260,Aparcamiento para residentes. Belianes,230 - Carlota O’Neill,Publicos Municipales,2964.8595715138763
+261,Aparcamiento para residentes. Belianes,230 - Carlota O’Neill,Residentes,2964.8595715138763
+262,Aparcamiento para residentes. Blasco de Garay,123 - Guzmán el Bueno,Publicos Municipales,338.3548964821088
+263,Aparcamiento para residentes. Blasco de Garay,123 - Guzmán el Bueno,Residentes,338.3548964821088
+264,Aparcamiento para residentes. Bohemios,213 - Glorieta de Cádiz,Publicos Municipales,3583.2164877397204
+265,Aparcamiento para residentes. Bohemios,213 - Glorieta de Cádiz,Residentes,3583.2164877397204
+266,Aparcamiento para residentes. Boston,241 - Camilo José Cela,Publicos Municipales,203.03344738209827
+267,Aparcamiento para residentes. Boston,241 - Camilo José Cela,Residentes,203.03344738209827
+268,Aparcamiento para residentes. Bravo Murillo,201 - Canal,Publicos Municipales,95.58812094911512
+269,Aparcamiento para residentes. Bravo Murillo,201 - Canal,Residentes,95.58812094911512
+270,Aparcamiento para residentes. Brescia,242 - Avenida Bruselas,Publicos Municipales,130.75101565517005
+271,Aparcamiento para residentes. Brescia,242 - Avenida Bruselas,Residentes,130.75101565517005
+272,Aparcamiento para residentes. Bristol,242 - Avenida Bruselas,Publicos Municipales,129.80100356003655
+273,Aparcamiento para residentes. Bristol,242 - Avenida Bruselas,Residentes,129.80100356003655
+274,Aparcamiento para residentes. Bruselas,242 - Avenida Bruselas,Publicos Municipales,83.32316762523092
+275,Aparcamiento para residentes. Bruselas,242 - Avenida Bruselas,Residentes,83.32316762523092
+276,Aparcamiento para residentes. Burgo de Osma,254 - Pío XII,Publicos Municipales,1966.2125637591887
+277,Aparcamiento para residentes. Burgo de Osma,254 - Pío XII,Residentes,1966.2125637591887
+278,Aparcamiento para residentes. Cabestreros,44 - Plaza de Nelson Mandela,Publicos Municipales,77.69493394137116
+279,Aparcamiento para residentes. Cabestreros,44 - Plaza de Nelson Mandela,Residentes,77.69493394137116
+280,Aparcamiento para residentes. Calanda,230 - Carlota O’Neill,Publicos Municipales,2246.8316432078545
+281,Aparcamiento para residentes. Calanda,230 - Carlota O’Neill,Residentes,2246.8316432078545
+282,Aparcamiento para residentes. Camarena,224 - Caramuel,Publicos Municipales,3449.058434283272
+283,Aparcamiento para residentes. Camarena,224 - Caramuel,Residentes,3449.058434283272
+284,Aparcamiento para residentes. Camino de los Vinateros I,219 - Marroquina,Publicos Municipales,513.7632092743061
+285,Aparcamiento para residentes. Camino de los Vinateros I,219 - Marroquina,Residentes,513.7632092743061
+286,Aparcamiento para residentes. Camino de los Vinateros II (El Torito),219 - Marroquina,Publicos Municipales,163.72029207230045
+287,Aparcamiento para residentes. Camino de los Vinateros II (El Torito),219 - Marroquina,Residentes,163.72029207230045
+288,Aparcamiento para residentes. Camino Viejo de Leganés,212 - Marqués de Vadillo,Publicos Municipales,2582.089886251032
+289,Aparcamiento para residentes. Camino Viejo de Leganés,212 - Marqués de Vadillo,Residentes,2582.089886251032
+290,Aparcamiento para residentes. Campillo del Mundo Nuevo,46 - Ribera de Curtidores,Publicos Municipales,158.5079301766473
+291,Aparcamiento para residentes. Campillo del Mundo Nuevo,46 - Ribera de Curtidores,Residentes,158.5079301766473
+292,Aparcamiento para residentes. Canal,201 - Canal,Publicos Municipales,176.40391391071606
+293,Aparcamiento para residentes. Canal,201 - Canal,Residentes,176.40391391071606
+294,Aparcamiento para residentes. Cándido Mateos,239 - Francos Rodríguez,Publicos Municipales,1690.2436339035098
+295,Aparcamiento para residentes. Cándido Mateos,239 - Francos Rodríguez,Residentes,1690.2436339035098
+296,Aparcamiento para residentes. Cantabria,215 - Gutierre de Cetina,Publicos Municipales,7207.468755732541
+297,Aparcamiento para residentes. Cantabria,215 - Gutierre de Cetina,Residentes,7207.468755732541
+298,Aparcamiento para residentes. Cañada,219 - Marroquina,Publicos Municipales,570.9336911706614
+299,Aparcamiento para residentes. Cañada,219 - Marroquina,Residentes,570.9336911706614
+300,Aparcamiento para residentes. Castelló,143 - Diego de León 52,Publicos Municipales,195.7367672484784
+301,Aparcamiento para residentes. Castelló,143 - Diego de León 52,Residentes,195.7367672484784
+302,Aparcamiento para residentes. Castrillo de Aza,221 - Pavones,Publicos Municipales,3295.507778155936
+303,Aparcamiento para residentes. Castrillo de Aza,221 - Pavones,Residentes,3295.507778155936
+304,Aparcamiento para residentes. Chamberí,124 - Manuel Silvela,Publicos Municipales,288.6219699658757
+305,Aparcamiento para residentes. Chamberí,124 - Manuel Silvela,Residentes,288.6219699658757
+306,Aparcamiento para residentes. Chaparral,230 - Carlota O’Neill,Publicos Municipales,3524.614481850628
+307,Aparcamiento para residentes. Chaparral,230 - Carlota O’Neill,Residentes,3524.614481850628
+308,Aparcamiento para residentes. Cidamón,214 - Condesa de Venadito,Publicos Municipales,795.2183722569225
+309,Aparcamiento para residentes. Cidamón,214 - Condesa de Venadito,Residentes,795.2183722569225
+310,Aparcamiento para residentes. Clara del Rey,251 - Corazón de María,Publicos Municipales,214.47903314178023
+311,Aparcamiento para residentes. Clara del Rey,251 - Corazón de María,Residentes,214.47903314178023
+312,Aparcamiento para residentes. Comandante Benítez,175 - Jaime el Conquistador,Publicos Municipales,134.17191106953533
+313,Aparcamiento para residentes. Comandante Benítez,175 - Jaime el Conquistador,Residentes,134.17191106953533
+314,Aparcamiento para residentes. Condado de Treviño,249 - Manuel Caldeiro,Publicos Municipales,1665.6150883529074
+315,Aparcamiento para residentes. Condado de Treviño,249 - Manuel Caldeiro,Residentes,1665.6150883529074
+316,Aparcamiento para residentes. Corazón de María II,251 - Corazón de María,Publicos Municipales,24.9134218106547
+317,Aparcamiento para residentes. Corazón de María II,251 - Corazón de María,Residentes,24.9134218106547
+318,Aparcamiento para residentes. Cuevas de Almanzora,254 - Pío XII,Publicos Municipales,2992.550269689488
+319,Aparcamiento para residentes. Cuevas de Almanzora,254 - Pío XII,Residentes,2992.550269689488
+320,Aparcamiento para residentes. Cumare,230 - Carlota O’Neill,Publicos Municipales,3278.5233757226765
+321,Aparcamiento para residentes. Cumare,230 - Carlota O’Neill,Residentes,3278.5233757226765
+322,Aparcamiento para residentes. Darwin,219 - Marroquina,Publicos Municipales,265.41678742959925
+323,Aparcamiento para residentes. Darwin,219 - Marroquina,Residentes,265.41678742959925
+324,Aparcamiento para residentes. Doce de Octubre,181 - Retiro-Ibiza,Publicos Municipales,86.28897326582137
+325,Aparcamiento para residentes. Doce de Octubre,181 - Retiro-Ibiza,Residentes,86.28897326582137
+326,Aparcamiento para residentes. Doctor Cirajas,215 - Gutierre de Cetina,Publicos Municipales,757.6266321050437
+327,Aparcamiento para residentes. Doctor Cirajas,215 - Gutierre de Cetina,Residentes,757.6266321050437
+328,Aparcamiento para residentes. Doctor Laguna,71 - Doce de Octubre,Publicos Municipales,129.6301663594796
+329,Aparcamiento para residentes. Doctor Laguna,71 - Doce de Octubre,Residentes,129.6301663594796
+330,Aparcamiento para residentes. Doménico Scarlatti,203 - San Francisco de Sales,Publicos Municipales,97.3868681613281
+331,Aparcamiento para residentes. Doménico Scarlatti,203 - San Francisco de Sales,Residentes,97.3868681613281
+332,Aparcamiento para residentes. Elvira,182 - Parque Roma,Publicos Municipales,253.97191996806987
+333,Aparcamiento para residentes. Elvira,182 - Parque Roma,Residentes,253.97191996806987
+334,Aparcamiento para residentes. Emigrantes,230 - Carlota O’Neill,Publicos Municipales,3016.199738361345
+335,Aparcamiento para residentes. Emigrantes,230 - Carlota O’Neill,Residentes,3016.199738361345
+336,Aparcamiento para residentes. Encomienda de Palacios,221 - Pavones,Publicos Municipales,970.8570290989892
+337,Aparcamiento para residentes. Encomienda de Palacios,221 - Pavones,Residentes,970.8570290989892
+338,Aparcamiento para residentes. Esfinge,215 - Gutierre de Cetina,Publicos Municipales,3771.879207247943
+339,Aparcamiento para residentes. Esfinge,215 - Gutierre de Cetina,Residentes,3771.879207247943
+340,Aparcamiento para residentes. Espalter,68 - Espalter,Publicos Municipales,72.72737669769405
+341,Aparcamiento para residentes. Espalter,68 - Espalter,Residentes,72.72737669769405
+342,Aparcamiento para residentes. Esperanza,173 - Puente Praga,Publicos Municipales,188.7019455852439
+343,Aparcamiento para residentes. Esperanza,173 - Puente Praga,Residentes,188.7019455852439
+344,Aparcamiento para residentes. Espinillo,235 - Embajadores 191,Publicos Municipales,3664.4245402932497
+345,Aparcamiento para residentes. Espinillo,235 - Embajadores 191,Residentes,3664.4245402932497
+346,Aparcamiento para residentes. Esteban Villegas,79 - Puerta de Granada,Publicos Municipales,503.21430837732976
+347,Aparcamiento para residentes. Esteban Villegas,79 - Puerta de Granada,Residentes,503.21430837732976
+348,Aparcamiento para residentes. Estrella Polar,73 - Plaza de los Astros,Publicos Municipales,234.13972724730075
+349,Aparcamiento para residentes. Estrella Polar,73 - Plaza de los Astros,Residentes,234.13972724730075
+350,Aparcamiento para residentes. Eugenia de Montijo,212 - Marqués de Vadillo,Publicos Municipales,3304.133648628369
+351,Aparcamiento para residentes. Eugenia de Montijo,212 - Marqués de Vadillo,Residentes,3304.133648628369
+352,Aparcamiento para residentes. Ferrol,207 - Remonta,Publicos Municipales,1672.449797761257
+353,Aparcamiento para residentes. Ferrol,207 - Remonta,Residentes,1672.449797761257
+354,Aparcamiento para residentes. Finisterre,217 - Pedro Rico,Publicos Municipales,1603.9821817156787
+355,Aparcamiento para residentes. Finisterre,217 - Pedro Rico,Residentes,1603.9821817156787
+356,Aparcamiento para residentes. Fonsagrada,207 - Remonta,Publicos Municipales,1949.9761972372687
+357,Aparcamiento para residentes. Fonsagrada,207 - Remonta,Residentes,1949.9761972372687
+358,Aparcamiento para residentes. Francisco Altimiras,193 - Ventas,Publicos Municipales,274.0003931776777
+359,Aparcamiento para residentes. Francisco Altimiras,193 - Ventas,Residentes,274.0003931776777
+360,Aparcamiento para residentes. Francisco Rioja,215 - Gutierre de Cetina,Publicos Municipales,339.1926829633774
+361,Aparcamiento para residentes. Francisco Rioja,215 - Gutierre de Cetina,Residentes,339.1926829633774
+362,Aparcamiento para residentes. Francos Rodríguez,239 - Francos Rodríguez,Publicos Municipales,243.95718604669693
+363,Aparcamiento para residentes. Francos Rodríguez,239 - Francos Rodríguez,Residentes,243.95718604669693
+364,Aparcamiento para residentes. Galileo,123 - Guzmán el Bueno,Publicos Municipales,345.3519761972003
+365,Aparcamiento para residentes. Galileo,123 - Guzmán el Bueno,Residentes,345.3519761972003
+366,Aparcamiento para residentes. García Escámez,224 - Caramuel,Residentes,5470.942726353404
+367,Aparcamiento para residentes. García Tapia,219 - Marroquina,Publicos Municipales,408.0362355555826
+368,Aparcamiento para residentes. García Tapia,219 - Marroquina,Residentes,408.0362355555826
+369,Aparcamiento para residentes. Garrovillas,224 - Caramuel,Publicos Municipales,6439.374530975472
+370,Aparcamiento para residentes. Garrovillas,224 - Caramuel,Residentes,6439.374530975472
+371,Aparcamiento para residentes. General Gallegos,255 - López Pozas,Publicos Municipales,267.2545268257669
+372,Aparcamiento para residentes. General Gallegos,255 - López Pozas,Residentes,267.2545268257669
+373,Aparcamiento para residentes. General Lacy,118 - Juan Martín,Publicos Municipales,365.0500768212214
+374,Aparcamiento para residentes. General Lacy,118 - Juan Martín,Residentes,365.0500768212214
+375,Aparcamiento para residentes. Gerardo Cordón,234 - Marqués de Corbera 52,Publicos Municipales,250.49117988106775
+376,Aparcamiento para residentes. Gerardo Cordón,234 - Marqués de Corbera 52,Residentes,250.49117988106775
+377,Aparcamiento para residentes. Germán Pérez Carrasco,232 - José María Pereda,Publicos Municipales,185.5771977825736
+378,Aparcamiento para residentes. Germán Pérez Carrasco,232 - José María Pereda,Residentes,185.5771977825736
+379,Aparcamiento para residentes. Gómez Ulla,193 - Ventas,Publicos Municipales,361.8688918687086
+380,Aparcamiento para residentes. Gómez Ulla,193 - Ventas,Residentes,361.8688918687086
+381,Aparcamiento para residentes. Goya I,101 - Jorge Juan,Publicos Municipales,128.92810520943314
+382,Aparcamiento para residentes. Goya I,101 - Jorge Juan,Residentes,128.92810520943314
+383,Aparcamiento para residentes. Guadalete,228 - San Delfín,Publicos Municipales,1001.4337487249852
+384,Aparcamiento para residentes. Guadalete,228 - San Delfín,Residentes,1001.4337487249852
+385,Aparcamiento para residentes. Ilíada,215 - Gutierre de Cetina,Publicos Municipales,3636.642113089597
+386,Aparcamiento para residentes. Ilíada,215 - Gutierre de Cetina,Residentes,3636.642113089597
+387,Aparcamiento para residentes. Illescas,224 - Caramuel,Publicos Municipales,4341.740688101079
+388,Aparcamiento para residentes. Illescas,224 - Caramuel,Residentes,4341.740688101079
+389,Aparcamiento para residentes. Ilustración,239 - Francos Rodríguez,Publicos Municipales,2756.707380114693
+390,Aparcamiento para residentes. Ilustración,239 - Francos Rodríguez,Residentes,2756.707380114693
+391,Aparcamiento para residentes. Isla de Arosa,239 - Francos Rodríguez,Publicos Municipales,2721.6182415872418
+392,Aparcamiento para residentes. Isla de Arosa,239 - Francos Rodríguez,Residentes,2721.6182415872418
+393,Aparcamiento para residentes. Isla de Ons,239 - Francos Rodríguez,Publicos Municipales,3002.878174061333
+394,Aparcamiento para residentes. Isla de Ons,239 - Francos Rodríguez,Residentes,3002.878174061333
+395,Aparcamiento para residentes. Isla de Tavira,239 - Francos Rodríguez,Publicos Municipales,3000.0751364547496
+396,Aparcamiento para residentes. Isla de Tavira,239 - Francos Rodríguez,Residentes,3000.0751364547496
+397,Aparcamiento para residentes. Islas Filipinas,128 - Cea Bermúdez,Publicos Municipales,108.03490638308288
+398,Aparcamiento para residentes. Islas Filipinas,128 - Cea Bermúdez,Residentes,108.03490638308288
+399,Aparcamiento para residentes. Iván de Vargas,223 - Ermita Santo,Publicos Municipales,416.8471740273952
+400,Aparcamiento para residentes. Iván de Vargas,223 - Ermita Santo,Residentes,416.8471740273952
+401,Aparcamiento para residentes. Jacinto Verdaguer,212 - Marqués de Vadillo,Publicos Municipales,389.4665274087649
+402,Aparcamiento para residentes. Jacinto Verdaguer,212 - Marqués de Vadillo,Residentes,389.4665274087649
+403,Aparcamiento para residentes. Joaquín María López,128 - Cea Bermúdez,Publicos Municipales,180.26646827455625
+404,Aparcamiento para residentes. Joaquín María López,128 - Cea Bermúdez,Residentes,180.26646827455625
+405,Aparcamiento para residentes. José Abascal,247 - Zurbano,Publicos Municipales,74.03470048749968
+406,Aparcamiento para residentes. José Abascal,247 - Zurbano,Residentes,74.03470048749968
+407,Aparcamiento para residentes. José Cadalso,224 - Caramuel,Publicos Municipales,5652.824529668522
+408,Aparcamiento para residentes. José Cadalso,224 - Caramuel,Residentes,5652.824529668522
+409,Aparcamiento para residentes. José del Hierro,229 - C.D. Concepción,Publicos Municipales,226.75054254197573
+410,Aparcamiento para residentes. José del Hierro,229 - C.D. Concepción,Residentes,226.75054254197573
+411,Aparcamiento para residentes. José Luis Arrese,233 - Marqués de Corbera 12,Publicos Municipales,202.56356107638263
+412,Aparcamiento para residentes. José Luis Arrese,233 - Marqués de Corbera 12,Residentes,202.56356107638263
+413,Aparcamiento para residentes. Josep Pla,146 - María Francisca 1,Publicos Municipales,281.03028243608617
+414,Aparcamiento para residentes. Josep Pla,146 - María Francisca 1,Residentes,281.03028243608617
+415,Aparcamiento para residentes. Juan de Vera,164 - Paseo de las Delicias,Residentes,249.35942276365483
+416,Aparcamiento para residentes. Juan Esplandiú,72 - Sainz de Baranda,Publicos Municipales,315.2710047672119
+417,Aparcamiento para residentes. Juan Esplandiú,72 - Sainz de Baranda,Residentes,315.2710047672119
+418,Aparcamiento para residentes. Juan Francisco Luján I,220 - Plaza del Encuentro,Publicos Municipales,292.2193222079574
+419,Aparcamiento para residentes. Juan Francisco Luján I,220 - Plaza del Encuentro,Residentes,292.2193222079574
+420,Aparcamiento para residentes. Juan Francisco Luján II,220 - Plaza del Encuentro,Publicos Municipales,606.5120889467174
+421,Aparcamiento para residentes. Juan Francisco Luján II,220 - Plaza del Encuentro,Residentes,606.5120889467174
+422,Aparcamiento para residentes. Juan Hurtado de Mendoza,158 - Alberto Alcocer,Publicos Municipales,308.14574061786385
+423,Aparcamiento para residentes. Juan Hurtado de Mendoza,158 - Alberto Alcocer,Residentes,308.14574061786385
+424,Aparcamiento para residentes. Juan Ramón Jiménez,157 - Castellana 164,Publicos Municipales,227.27479234007603
+425,Aparcamiento para residentes. Juan Ramón Jiménez,157 - Castellana 164,Residentes,227.27479234007603
+426,Aparcamiento para residentes. Lagasca,190 - Velázquez-Diego de León,Publicos Municipales,110.07699083816472
+427,Aparcamiento para residentes. Lagasca,190 - Velázquez-Diego de León,Residentes,110.07699083816472
+428,Aparcamiento para residentes. Lardero,221 - Pavones,Publicos Municipales,2864.5437032135114
+429,Aparcamiento para residentes. Lardero,221 - Pavones,Residentes,2864.5437032135114
+430,Aparcamiento para residentes. Maldonado,143 - Diego de León 52,Publicos Municipales,190.90786490383044
+431,Aparcamiento para residentes. Maldonado,143 - Diego de León 52,Residentes,190.90786490383044
+432,Aparcamiento para residentes. Manizales,230 - Carlota O’Neill,Publicos Municipales,3613.247598542765
+433,Aparcamiento para residentes. Manizales,230 - Carlota O’Neill,Residentes,3613.247598542765
+434,Aparcamiento para residentes. Manuel Noya,228 - San Delfín,Publicos Municipales,787.9394056137425
+435,Aparcamiento para residentes. Manuel Noya,228 - San Delfín,Residentes,787.9394056137425
+436,Aparcamiento para residentes. Marcos de Orueta,217 - Pedro Rico,Publicos Municipales,590.785509378752
+437,Aparcamiento para residentes. Marcos de Orueta,217 - Pedro Rico,Residentes,590.785509378752
+438,Aparcamiento para residentes. Marqués de Corbera I,233 - Marqués de Corbera 12,Publicos Municipales,207.1528229466801
+439,Aparcamiento para residentes. Marqués de Corbera I,233 - Marqués de Corbera 12,Residentes,207.1528229466801
+440,Aparcamiento para residentes. Marqués de Corbera II,234 - Marqués de Corbera 52,Publicos Municipales,231.474523240213
+441,Aparcamiento para residentes. Marqués de Corbera II,234 - Marqués de Corbera 52,Residentes,231.474523240213
+442,Aparcamiento para residentes. Marqués de Samaranch,236 - Paseo Imperial,Publicos Municipales,18.296637915019904
+443,Aparcamiento para residentes. Marqués de Samaranch,236 - Paseo Imperial,Residentes,18.296637915019904
+444,Aparcamiento para residentes. Marqués de Suances,215 - Gutierre de Cetina,Publicos Municipales,2508.7368013223245
+445,Aparcamiento para residentes. Marqués de Suances,215 - Gutierre de Cetina,Residentes,2508.7368013223245
+446,Aparcamiento para residentes. Marqués de Zafra,185 - Quinta Fuente del Berro,Publicos Municipales,17.734773226692887
+447,Aparcamiento para residentes. Marqués de Zafra,185 - Quinta Fuente del Berro,Residentes,17.734773226692887
+448,Aparcamiento para residentes. Marroquina,219 - Marroquina,Publicos Municipales,68.63186546974588
+449,Aparcamiento para residentes. Marroquina,219 - Marroquina,Residentes,68.63186546974588
+450,Aparcamiento para residentes. Martín de Alzaga,239 - Francos Rodríguez,Publicos Municipales,1162.8459221260991
+451,Aparcamiento para residentes. Martín de Alzaga,239 - Francos Rodríguez,Residentes,1162.8459221260991
+452,Aparcamiento para residentes. Matilde Gayo,222 - Antonio López,Residentes,238.1244912972776
+453,Aparcamiento para residentes. Melchor Fernández Almagro,207 - Remonta,Publicos Municipales,1562.1911416327916
+454,Aparcamiento para residentes. Melchor Fernández Almagro,207 - Remonta,Residentes,1562.1911416327916
+455,Aparcamiento para residentes. Menasalbas,213 - Glorieta de Cádiz,Publicos Municipales,3006.8876750983422
+456,Aparcamiento para residentes. Menasalbas,213 - Glorieta de Cádiz,Residentes,3006.8876750983422
+457,Aparcamiento para residentes. Menorca,181 - Retiro-Ibiza,Publicos Municipales,101.31471518265283
+458,Aparcamiento para residentes. Menorca,181 - Retiro-Ibiza,Residentes,101.31471518265283
+459,Aparcamiento para residentes. Mercedes Arteaga,212 - Marqués de Vadillo,Publicos Municipales,958.9975721405922
+460,Aparcamiento para residentes. Mercedes Arteaga,212 - Marqués de Vadillo,Residentes,958.9975721405922
+461,Aparcamiento para residentes. Miguel Angel,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Publicos Municipales,250.0542647519189
+462,Aparcamiento para residentes. Miguel Angel,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Residentes,250.0542647519189
+463,Aparcamiento para residentes. Mirabel,224 - Caramuel,Publicos Municipales,6793.709614344835
+464,Aparcamiento para residentes. Mirabel,224 - Caramuel,Residentes,6793.709614344835
+465,Aparcamiento para residentes. Misterios,215 - Gutierre de Cetina,Publicos Municipales,965.0822505243376
+466,Aparcamiento para residentes. Misterios,215 - Gutierre de Cetina,Residentes,965.0822505243376
+467,Aparcamiento para residentes. Mondariz,207 - Remonta,Publicos Municipales,1944.4344369595144
+468,Aparcamiento para residentes. Mondariz,207 - Remonta,Residentes,1944.4344369595144
+469,Aparcamiento para residentes. Montevideo,151 - Orense 12,Publicos Municipales,200.5200567237427
+470,Aparcamiento para residentes. Moralzarzal,217 - Pedro Rico,Publicos Municipales,3026.426555501501
+471,Aparcamiento para residentes. Moralzarzal,217 - Pedro Rico,Residentes,3026.426555501501
+472,Aparcamiento para residentes. Moratalaz,219 - Marroquina,Publicos Municipales,535.6732855118736
+473,Aparcamiento para residentes. Moratalaz,219 - Marroquina,Residentes,535.6732855118736
+474,Aparcamiento para residentes. Müller,207 - Remonta,Publicos Municipales,111.92192222798536
+475,Aparcamiento para residentes. Müller,207 - Remonta,Residentes,111.92192222798536
+476,Aparcamiento para residentes. Narváez,61 - Narváez,Publicos Municipales,116.48330750563488
+477,Aparcamiento para residentes. Narváez,61 - Narváez,Residentes,116.48330750563488
+478,Aparcamiento para residentes. Navalmoral de la Mata,224 - Caramuel,Publicos Municipales,6412.980897604699
+479,Aparcamiento para residentes. Navalmoral de la Mata,224 - Caramuel,Residentes,6412.980897604699
+480,Aparcamiento para residentes. Niño Jesús,74 - Puerta del Pacífico ,Publicos Municipales,183.0559853069826
+481,Aparcamiento para residentes. Niño Jesús,74 - Puerta del Pacífico ,Residentes,183.0559853069826
+482,Aparcamiento para residentes. Nuestra Señora de Gracia,221 - Pavones,Publicos Municipales,676.4190246906544
+483,Aparcamiento para residentes. Nuestra Señora de Gracia,221 - Pavones,Residentes,676.4190246906544
+484,Aparcamiento para residentes. Ofelia Nieto,239 - Francos Rodríguez,Publicos Municipales,545.9450958563785
+485,Aparcamiento para residentes. Ofelia Nieto,239 - Francos Rodríguez,Residentes,545.9450958563785
+486,Aparcamiento para residentes. Oporto,212 - Marqués de Vadillo,Publicos Municipales,1936.068061439125
+487,Aparcamiento para residentes. Oporto,212 - Marqués de Vadillo,Residentes,1936.068061439125
+488,Aparcamiento para residentes. Ortega y Gasset I,145 - Ortega y Gasset 87,Publicos Municipales,148.99476965342404
+489,Aparcamiento para residentes. Ortega y Gasset I,145 - Ortega y Gasset 87,Residentes,148.99476965342404
+490,Aparcamiento para residentes. Ortega y Gasset II,186 - General Pardiñas,Publicos Municipales,95.46299291180704
+491,Aparcamiento para residentes. Ortega y Gasset II,186 - General Pardiñas,Residentes,95.46299291180704
+492,Aparcamiento para residentes. Ortega y Gasset III,109 - Marqués de Salamanca,Publicos Municipales,117.66437036380962
+493,Aparcamiento para residentes. Ortega y Gasset III,109 - Marqués de Salamanca,Residentes,117.66437036380962
+494,Aparcamiento para residentes. Ortega y Gasset IV,88 - Embajada de Italia,Publicos Municipales,121.94771030896328
+495,Aparcamiento para residentes. Ortega y Gasset IV,88 - Embajada de Italia,Residentes,121.94771030896328
+496,Aparcamiento para residentes. Ortiz Campos,222 - Antonio López,Publicos Municipales,889.6666715020905
+497,Aparcamiento para residentes. Ortiz Campos,222 - Antonio López,Residentes,889.6666715020905
+498,Aparcamiento para residentes. Osa de la Vega,224 - Caramuel,Publicos Municipales,6307.404084142324
+499,Aparcamiento para residentes. Osa de la Vega,224 - Caramuel,Residentes,6307.404084142324
+500,Aparcamiento para residentes. Pablo Casals,216 - Puerta del Ángel,Publicos Municipales,524.6410017634587
+501,Aparcamiento para residentes. Pablo Casals,216 - Puerta del Ángel,Residentes,524.6410017634587
+502,Aparcamiento para residentes. Pablo Iglesias I,132 - Glorieta de los Cuatro Caminos,Publicos Municipales,325.1237409105492
+503,Aparcamiento para residentes. Pablo Iglesias I,132 - Glorieta de los Cuatro Caminos,Residentes,325.1237409105492
+504,Aparcamiento para residentes. Pablo Iglesias II,237 - Pablo Iglesias,Publicos Municipales,313.6132214512081
+505,Aparcamiento para residentes. Pablo Iglesias II,237 - Pablo Iglesias,Residentes,313.6132214512081
+506,Aparcamiento para residentes. Pan y Toros,213 - Glorieta de Cádiz,Publicos Municipales,3237.2689442846927
+507,Aparcamiento para residentes. Pan y Toros,213 - Glorieta de Cádiz,Residentes,3237.2689442846927
+508,Aparcamiento para residentes. Panamá,157 - Castellana 164,Publicos Municipales,215.6369045835052
+509,Aparcamiento para residentes. Panamá,157 - Castellana 164,Residentes,215.6369045835052
+510,Aparcamiento para residentes. Parque de Santa María,230 - Carlota O’Neill,Publicos Municipales,3848.7150245697926
+511,Aparcamiento para residentes. Parque de Santa María,230 - Carlota O’Neill,Residentes,3848.7150245697926
+512,Aparcamiento para residentes. Paseo de Pintor Rosales I,113 - Pintor Rosales,Publicos Municipales,54.4926832539492
+513,Aparcamiento para residentes. Paseo de Pintor Rosales I,113 - Pintor Rosales,Residentes,54.4926832539492
+514,Aparcamiento para residentes. Paseo de Pintor Rosales II,112 - Paseo de Moret,Publicos Municipales,322.3005001217042
+515,Aparcamiento para residentes. Paseo de Pintor Rosales II,112 - Paseo de Moret,Residentes,322.3005001217042
+516,Aparcamiento para residentes. Paseo de Pintor Rosales III,113 - Pintor Rosales,Publicos Municipales,133.46744983678076
+517,Aparcamiento para residentes. Paseo de Pintor Rosales III,113 - Pintor Rosales,Residentes,133.46744983678076
+518,Aparcamiento para residentes. Pedro Yagüe,228 - San Delfín,Publicos Municipales,188.9989025718041
+519,Aparcamiento para residentes. Pedro Yagüe,228 - San Delfín,Residentes,188.9989025718041
+520,Aparcamiento para residentes. Peñuelas,163 - Paseo de la Esperanza,Publicos Municipales,167.94512737989612
+521,Aparcamiento para residentes. Peñuelas,163 - Paseo de la Esperanza,Residentes,167.94512737989612
+522,Aparcamiento para residentes. Pérez Pillado,202 - Parque Santander,Publicos Municipales,210.19954022976657
+523,Aparcamiento para residentes. Pérez Pillado,202 - Parque Santander,Residentes,210.19954022976657
+524,Aparcamiento para residentes. Pez Volador,72 - Sainz de Baranda,Publicos Municipales,472.3910282663048
+525,Aparcamiento para residentes. Pez Volador,72 - Sainz de Baranda,Residentes,472.3910282663048
+526,Aparcamiento para residentes. Pico de los Artilleros,219 - Marroquina,Residentes,814.0598693936549
+527,Aparcamiento para residentes. Pilar de Zaragoza,243 - Cartagena,Publicos Municipales,130.07886226669424
+528,Aparcamiento para residentes. Pilar de Zaragoza,243 - Cartagena,Residentes,130.07886226669424
+529,Aparcamiento para residentes. Pío Baroja I,83 - Pío Baroja,Residentes,13.374276049286289
+530,Aparcamiento para residentes. Pío Baroja II,221 - Pavones,Publicos Municipales,478.9961656425771
+531,Aparcamiento para residentes. Pío Baroja II,221 - Pavones,Residentes,478.9961656425771
+532,Aparcamiento para residentes. Platón,230 - Carlota O’Neill,Publicos Municipales,390.1546324588286
+533,Aparcamiento para residentes. Platón,230 - Carlota O’Neill,Residentes,390.1546324588286
+534,Aparcamiento para residentes. Poeta Leopoldo de Luis,205 - Estrecho,Publicos Municipales,153.13888190216474
+535,Aparcamiento para residentes. Poeta Leopoldo de Luis,205 - Estrecho,Residentes,153.13888190216474
+536,Aparcamiento para residentes. Pradillo,196 - Prosperidad,Publicos Municipales,678.2316697186399
+537,Aparcamiento para residentes. Pradillo,196 - Prosperidad,Residentes,678.2316697186399
+538,Aparcamiento para residentes. Pradillo II,251 - Corazón de María,Publicos Municipales,723.3921679462784
+539,Aparcamiento para residentes. Pradillo II,251 - Corazón de María,Residentes,723.3921679462784
+540,Aparcamiento para residentes. Puerto Monasterio,227 - Concordia,Publicos Municipales,243.0412071561255
+541,Aparcamiento para residentes. Puerto Monasterio,227 - Concordia,Residentes,243.0412071561255
+542,Aparcamiento para residentes. Rafael Finat,224 - Caramuel,Publicos Municipales,4890.774032083773
+543,Aparcamiento para residentes. Rafael Finat,224 - Caramuel,Residentes,4890.774032083773
+544,Aparcamiento para residentes. Rafael Salgado,253 - Doctor Fleming,Publicos Municipales,150.7551551758066
+545,Aparcamiento para residentes. Rafael Salgado,253 - Doctor Fleming,Residentes,150.7551551758066
+546,Aparcamiento para residentes. Rafaela Ybarra,213 - Glorieta de Cádiz,Publicos Municipales,1536.9224325050282
+547,Aparcamiento para residentes. Rafaela Ybarra,213 - Glorieta de Cádiz,Residentes,1536.9224325050282
+548,Aparcamiento para residentes. Ramales,36 - Plaza Ramales,Publicos Municipales,133.49723450118762
+549,Aparcamiento para residentes. Ramón Gómez de la Serna,239 - Francos Rodríguez,Publicos Municipales,3478.4451213136103
+550,Aparcamiento para residentes. Ramos Carrión,251 - Corazón de María,Publicos Municipales,264.1104347130753
+551,Aparcamiento para residentes. Ramos Carrión,251 - Corazón de María,Residentes,264.1104347130753
+552,Aparcamiento para residentes. Redondela,207 - Remonta,Publicos Municipales,2084.253312348386
+553,Aparcamiento para residentes. Redondela,207 - Remonta,Residentes,2084.253312348386
+554,Aparcamiento para residentes. Reina Victoria,256 - Reina Victoria,Publicos Municipales,402.2901786616492
+555,Aparcamiento para residentes. Reina Victoria,256 - Reina Victoria,Residentes,402.2901786616492
+556,Aparcamiento para residentes. Ribadavia,207 - Remonta,Publicos Municipales,1400.885167642227
+557,Aparcamiento para residentes. Ribadavia,207 - Remonta,Residentes,1400.885167642227
+558,Aparcamiento para residentes. Ribadeo,207 - Remonta,Publicos Municipales,2157.7283660891835
+559,Aparcamiento para residentes. Ribadeo,207 - Remonta,Residentes,2157.7283660891835
+560,Aparcamiento para residentes. Ríos Rosas,130 - Santa Engracia 127,Publicos Municipales,56.821641561742055
+561,Aparcamiento para residentes. Ríos Rosas,130 - Santa Engracia 127,Residentes,56.821641561742055
+562,Aparcamiento para residentes. Rutilio Gacís,176 - Beata,Publicos Municipales,207.5364145861094
+563,Aparcamiento para residentes. Rutilio Gacís,176 - Beata,Residentes,207.5364145861094
+564,Aparcamiento para residentes. San Amaro,152 - General Perón 1,Publicos Municipales,240.0787748775384
+565,Aparcamiento para residentes. San Amaro,152 - General Perón 1,Residentes,240.0787748775384
+566,Aparcamiento para residentes. San Antonio de la Florida,161 - Paseo de la Florida,Publicos Municipales,602.9992173530359
+567,Aparcamiento para residentes. San Antonio de la Florida,161 - Paseo de la Florida,Residentes,602.9992173530359
+568,Aparcamiento para residentes. San Aureliano,213 - Glorieta de Cádiz,Publicos Municipales,5426.442946626973
+569,Aparcamiento para residentes. San Cipriano,221 - Pavones,Publicos Municipales,3693.412005876928
+570,Aparcamiento para residentes. San Cipriano,221 - Pavones,Residentes,3693.412005876928
+571,Aparcamiento para residentes. San Francisco de Sales I,203 - San Francisco de Sales,Publicos Municipales,72.36409335733683
+572,Aparcamiento para residentes. San Francisco de Sales I,203 - San Francisco de Sales,Residentes,72.36409335733683
+573,Aparcamiento para residentes. San Francisco de Sales II,203 - San Francisco de Sales,Publicos Municipales,42.22079627861199
+574,Aparcamiento para residentes. San Francisco de Sales II,203 - San Francisco de Sales,Residentes,42.22079627861199
+575,Aparcamiento para residentes. San Germán,206 - Metro Tetuán,Publicos Municipales,369.48051655890686
+576,Aparcamiento para residentes. San Germán,206 - Metro Tetuán,Residentes,369.48051655890686
+577,Aparcamiento para residentes. San Juan de la Cruz,135 - Plaza de San Juan de la Cruz,Publicos Municipales,135.18123102818566
+578,Aparcamiento para residentes. San Juan de la Cruz,135 - Plaza de San Juan de la Cruz,Residentes,135.18123102818566
+579,Aparcamiento para residentes. San Juan de la Salle,149 - Paseo de la Habana 42,Publicos Municipales,158.786287071305
+580,Aparcamiento para residentes. San Juan de la Salle,149 - Paseo de la Habana 42,Residentes,158.786287071305
+581,Aparcamiento para residentes. San Lamberto,234 - Marqués de Corbera 52,Publicos Municipales,447.4747302849914
+582,Aparcamiento para residentes. San Lamberto,234 - Marqués de Corbera 52,Residentes,447.4747302849914
+583,Aparcamiento para residentes. Sancho de Córdoba,220 - Plaza del Encuentro,Publicos Municipales,253.8712784909474
+584,Aparcamiento para residentes. Sancho de Córdoba,220 - Plaza del Encuentro,Residentes,253.8712784909474
+585,Aparcamiento para residentes. Santa Cruz,40 - Conde de Romanones,Publicos Municipales,92.05981919880529
+586,Aparcamiento para residentes. Santa Cruz,40 - Conde de Romanones,Residentes,92.05981919880529
+587,Aparcamiento para residentes. Santa Eugenia,221 - Pavones,Publicos Municipales,3604.6839902428223
+588,Aparcamiento para residentes. Santa Eugenia,221 - Pavones,Residentes,3604.6839902428223
+589,Aparcamiento para residentes. Santa Susana,254 - Pío XII,Publicos Municipales,3929.9056817930687
+590,Aparcamiento para residentes. Santa Susana,254 - Pío XII,Residentes,3929.9056817930687
+591,Aparcamiento para residentes. Santa Virgilia,230 - Carlota O’Neill,Publicos Municipales,3691.842242889612
+592,Aparcamiento para residentes. Santa Virgilia,230 - Carlota O’Neill,Residentes,3691.842242889612
+593,Aparcamiento para residentes. Santander,202 - Parque Santander,Publicos Municipales,418.10776448058647
+594,Aparcamiento para residentes. Santander,202 - Parque Santander,Residentes,418.10776448058647
+595,Aparcamiento para residentes. Santo Domingo de Silos,149 - Paseo de la Habana 42,Publicos Municipales,115.14568550562817
+596,Aparcamiento para residentes. Santo Domingo de Silos,149 - Paseo de la Habana 42,Residentes,115.14568550562817
+597,Aparcamiento para residentes. Sarriá,239 - Francos Rodríguez,Publicos Municipales,2250.320491135408
+598,Aparcamiento para residentes. Sarriá,239 - Francos Rodríguez,Residentes,2250.320491135408
+599,Aparcamiento para residentes. Somontín,254 - Pío XII,Publicos Municipales,2747.131618014959
+600,Aparcamiento para residentes. Somontín,254 - Pío XII,Residentes,2747.131618014959
+601,Aparcamiento para residentes. Sor Ángela de la Cruz,206 - Metro Tetuán,Publicos Municipales,383.7026283324964
+602,Aparcamiento para residentes. Sor Ángela de la Cruz,206 - Metro Tetuán,Residentes,383.7026283324964
+603,Aparcamiento para residentes. Tembleque,224 - Caramuel,Publicos Municipales,4512.0932714478495
+604,Aparcamiento para residentes. Tembleque,224 - Caramuel,Residentes,4512.0932714478495
+605,Aparcamiento para residentes. Tomelloso,213 - Glorieta de Cádiz,Publicos Municipales,811.078785188607
+606,Aparcamiento para residentes. Tomelloso,213 - Glorieta de Cádiz,Residentes,811.078785188607
+607,Aparcamiento para residentes. Uruguay,160 - Colombia,Publicos Municipales,425.3282884513123
+608,Aparcamiento para residentes. Uruguay,160 - Colombia,Residentes,425.3282884513123
+609,Aparcamiento para residentes. Valladolid,112 - Paseo de Moret,Publicos Municipales,787.8034398178489
+610,Aparcamiento para residentes. Valladolid,112 - Paseo de Moret,Residentes,787.8034398178489
+611,Aparcamiento para residentes. Valle de Suchil,127 - Fernando el Católico,Publicos Municipales,161.68497594078414
+612,Aparcamiento para residentes. Valle de Suchil,127 - Fernando el Católico,Residentes,161.68497594078414
+613,Aparcamiento para residentes. Valparaíso,159 - Paseo de la Habana 63,Publicos Municipales,376.2094108063705
+614,Aparcamiento para residentes. Valparaíso,159 - Paseo de la Habana 63,Residentes,376.2094108063705
+615,Aparcamiento para residentes. Vasconcelos,252 - Chamartín,Publicos Municipales,320.20924764682354
+616,Aparcamiento para residentes. Vasconcelos,252 - Chamartín,Residentes,320.20924764682354
+617,Aparcamiento para residentes. Vía Carpetana,224 - Caramuel,Publicos Municipales,2903.691056149647
+618,Aparcamiento para residentes. Vía Carpetana,224 - Caramuel,Residentes,2903.691056149647
+619,Aparcamiento para residentes. Vicente Gaceo,248 - Torre Cepsa,Publicos Municipales,104.70607753555856
+620,Aparcamiento para residentes. Vicente Gaceo,248 - Torre Cepsa,Residentes,104.70607753555856
+621,Aparcamiento para residentes. Villa Rosa,230 - Carlota O’Neill,Publicos Municipales,3303.372751180668
+622,Aparcamiento para residentes. Villa Rosa,230 - Carlota O’Neill,Residentes,3303.372751180668
+623,Aparcamiento para residentes. Villacarlos,221 - Pavones,Publicos Municipales,3161.090808342112
+624,Aparcamiento para residentes. Villacarlos,221 - Pavones,Residentes,3161.090808342112
+625,Aparcamiento para residentes. Villaescusa,215 - Gutierre de Cetina,Publicos Municipales,1642.3338159494012
+626,Aparcamiento para residentes. Villaescusa,215 - Gutierre de Cetina,Residentes,1642.3338159494012
+627,Aparcamiento para residentes. Villamanín I,224 - Caramuel,Publicos Municipales,2771.1929793460017
+628,Aparcamiento para residentes. Villamanín I,224 - Caramuel,Residentes,2771.1929793460017
+629,Aparcamiento para residentes. Villamanín II,224 - Caramuel,Publicos Municipales,2916.2207816325767
+630,Aparcamiento para residentes. Villamanín II,224 - Caramuel,Residentes,2916.2207816325767
+631,Aparcamiento para residentes. Virgen de Aránzazu,217 - Pedro Rico,Publicos Municipales,621.8033915965237
+632,Aparcamiento para residentes. Virgen de Aránzazu,217 - Pedro Rico,Residentes,621.8033915965237
+633,Aparcamiento para residentes. Virgen de La Alegría,189 - Avenida Donostiarra,Publicos Municipales,245.3108285954832
+634,Aparcamiento para residentes. Virgen de La Alegría,189 - Avenida Donostiarra,Residentes,245.3108285954832
+635,Aparcamiento para residentes. Virgen de La Roca I,189 - Avenida Donostiarra,Publicos Municipales,247.23115803548652
+636,Aparcamiento para residentes. Virgen de La Roca I,189 - Avenida Donostiarra,Residentes,247.23115803548652
+637,Aparcamiento para residentes. Virgen de La Roca II,189 - Avenida Donostiarra,Publicos Municipales,244.37875544375424
+638,Aparcamiento para residentes. Virgen de La Roca II,189 - Avenida Donostiarra,Residentes,244.37875544375424
+639,Aparcamiento para residentes. Virgen de Lourdes,189 - Avenida Donostiarra,Publicos Municipales,277.7996083611828
+640,Aparcamiento para residentes. Virgen del Puerto,167 - Segovia 45,Publicos Municipales,391.0398354669225
+641,Aparcamiento para residentes. Virgen del Puerto,167 - Segovia 45,Residentes,391.0398354669225
+642,Aparcamiento para Residentes. Virgen del Romero,229 - C.D. Concepción,Publicos Municipales,371.7584674938453
+643,Aparcamiento para Residentes. Virgen del Romero,229 - C.D. Concepción,Residentes,371.7584674938453
+644,Aparcamiento para residentes. Vista Alegre,212 - Marqués de Vadillo,Publicos Municipales,2723.915200384118
+645,Aparcamiento para residentes. Vista Alegre,212 - Marqués de Vadillo,Residentes,2723.915200384118
+646,Aparcamiento para residentes. Vital Aza,215 - Gutierre de Cetina,Publicos Municipales,415.9499518985863
+647,Aparcamiento para residentes. Vital Aza,215 - Gutierre de Cetina,Residentes,415.9499518985863
+648,Aparcamiento para residentes. Codorniz,224 - Caramuel,Residentes,3960.759406758594
+649,Aparcamiento para residentes. Conde de Casal / Mediterraneo,77 - Conde de Casal,Residentes,103.21646502186626
+650,Aparcamiento para residentes. Corazón de María I,241 - Camilo José Cela,Residentes,450.181475619356
