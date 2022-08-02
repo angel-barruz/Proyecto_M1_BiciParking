@@ -1,11 +1,8 @@
-from unittest import result
-import pandas as pd
 import argparse
+import pandas as pd
 
-df_final = pd.read_csv('../project_m1_new/df_final.csv')
+df_final = pd.read_csv('./csv/df_final.csv')
 print('Data loaded...')
-
-# filter = ['Aparcamiento disuasorio Aviación Española']
 
 def argument_parser():
     parser = argparse.ArgumentParser(description= 'Application for arithmetic calculations' )
@@ -27,4 +24,5 @@ if __name__ == '__main__':
         result = 'FATAL ERROR...you need to select the correct method'
 
 print(f'The result is => {result}')
+
     
