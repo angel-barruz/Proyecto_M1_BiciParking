@@ -2,67 +2,71 @@ import pandas as pd
 from shapely.geometry import Point
 import geopandas as gpd
 
-
-# Dataframe de info de bicimad
-df_bm = pd.read_csv('df_bm.csv')
-
-
+# Data Frame Bici Mad
+def Bici_Mad():
+    df_bm = pd.read_csv('df_bm.csv')
+    return df_bm
 
 # Importamos tablas de Parking de la Comunidad de Madrid en formato CSV
-
 # Aparcamientos Disuasorios
-df_1 = pd.read_csv('../csv/publicos-dis.csv', sep=';')
-df_1.columns
-df_1_n = df_1[['NOMBRE', 'LATITUD', 'LONGITUD']]
-df_1_n['Tipo'] = 'Disuasorio'
-df_1_n.head(3)
+def disuasorios():
+    df_1 = pd.read_csv('../csv/publicos-dis.csv', sep=';')
+    df_1.columns
+    df_1_n = df_1[['NOMBRE', 'LATITUD', 'LONGITUD']]
+    df_1_n['Tipo'] = 'Disuasorio'
+    return df_1_n
 
 # Parkings públicos municipales
-df_2 = pd.read_csv('../csv/parkings.csv', sep=';')
-df_2.columns
-df_2_n = df_2[['NOMBRE', 'LATITUD', 'LONGITUD']]
-df_2_n['Tipo'] = 'Publicos Municipales'
-df_2_n.head(5)
+def publicos_municipales():
+    df_2 = pd.read_csv('../csv/parkings.csv', sep=';')
+    df_2.columns
+    df_2_n = df_2[['NOMBRE', 'LATITUD', 'LONGITUD']]
+    df_2_n['Tipo'] = 'Publicos Municipales'
+    return df_2_n
 
 # Parkings Públicos Residentes
-df_3 = pd.read_csv('../csv/residentes.csv', sep=';')
-df_3.columns
-df_3_n = df_3[['NOMBRE', 'LATITUD', 'LONGITUD']]
-df_3_n['Tipo'] = 'Residentes'
-df_3_n.head(20)
+def publicos_residentes():
+    df_3 = pd.read_csv('../csv/residentes.csv', sep=';')
+    df_3.columns
+    df_3_n = df_3[['NOMBRE', 'LATITUD', 'LONGITUD']]
+    df_3_n['Tipo'] = 'Residentes'
+    return df_3_n
 
 # Concat de las 3 Tablas de Parking Municipales en 1
-parking_mad = pd.concat([df_1_n, df_2_n, df_3_n], axis=0)
-parking_mad['key'] = 0
-parking_mad.head(3)
+def parking_madrid():
+    parking_mad = pd.concat(['df_1_n', 'df_2_n', 'df_3_n'], axis=0)
+    parking_mad['key'] = 0
+    return parking_mad
 
-# Separación de Latitud y Longitud
-df_bm[['LONGITUD','LATITUD']]=df_bm['geometry.coordinates'].str.split(',',expand=True)
-df_bm.head (3)
+# Separación de Latitud y Longitud de bici_mad
+def separacion():
+    Bici_Mad[['LONGITUD','LATITUD']]=Bici_Mad['geometry.coordinates'].str.split(',',expand=True)
+    return Bici_Mad
 
 # Limpieza de datos "[]"
-df_bm['LATITUD'] = df_bm['LATITUD'].str.replace("]","", regex=True)
-df_bm['LONGITUD'] = df_bm['LONGITUD'].str.replace("[","",regex=True)
-df_bm.head(5)
-print(df_bm.dtypes)
+def limpieza(LATITUD, LONGITUD):
+    Bici_Mad['LATITUD'] = Bici_Mad['LATITUD'].str.replace("]","", regex=True)
+    Bici_Mad['LONGITUD'] = Bici_Mad['LONGITUD'].str.replace("[","",regex=True)
+    return Bici_Mad
 
 # Convertir string a float
-df_bm['LATITUD'] = df_bm['LATITUD'].astype(float)
-df_bm['LONGITUD'] = df_bm['LONGITUD'].astype(float)
-df_bm.head(5)
-
-print(df_bm.dtypes)
+def conversion (LATITUD, LONGITUD):
+    Bici_Mad['LATITUD'] = Bici_Mad['LATITUD'].astype(float)
+    Bici_Mad['LONGITUD'] = Bici_Mad['LONGITUD'].astype(float)
+    return Bici_Mad
 
 # Renombramos, sacamos las tablas con las mismas columnas para poder hacer Merge y establecemos key ficticia para punto de unión
-bici_Mad = df_bm.columns
-bici_Mad = df_bm.rename(columns = {'name':'NOMBRE'}, inplace = True)
-bici_Mad = df_bm[['NOMBRE', 'LATITUD', 'LONGITUD']]
-bici_Mad['key'] = 0
-bici_Mad.head(3)
+def rename():
+    bici_Mad = Bici_Mad.columns
+    bici_Mad = Bici_Mad.rename(columns = {'name':'NOMBRE'}, inplace = True)
+    bici_Mad = Bici_Mad['NOMBRE', 'LATITUD', 'LONGITUD']
+    bici_Mad['key'] = 0
+    return bici_Mad
 
 #Tabla única
-pm_bm = parking_mad.merge(bici_Mad, on='key', how='left')
-pm_bm.head(3)
+def tabla_unica():
+    Merge = rename.merge(rename, on='key', how='left')
+    return Merge
 
 #Cálculo Distancias
 def distance_meters(lat_start, long_start, lat_finish, long_finish):
@@ -77,26 +81,33 @@ def to_mercator(lat, long):
     c = c.to_crs(3857)
     return c
 
-
-pm_bm['Diferencia'] = pm_bm.apply(lambda x: distance_meters(x['LATITUD_x'],
+# Distancia en Metros
+def distancia_m():
+    pm_bm['Diferencia'] = pm_bm.apply(lambda x: distance_meters(x['LATITUD_x'],
                                                             x['LONGITUD_x'],
                                                             x['LATITUD_y'],
                                                             x['LONGITUD_y'])
                                                             , axis=1)
-
-
-
-pm_bm.groupby(["Diferencia"]).min()
-
-pm_bm.to_csv('pm_bm.csv')
+    return pm_bm
 
 # CSV del Dataframe  pm_bm
-pm_bm = pd.read_csv('../csv/pm_bm.csv')
-pm_bm
+def pm_bm():
+    pm_bm = pd.read_csv('../csv/pm_bm.csv')
+    return pm_bm
 
 # Calculamos el minimo de distancia
-pm_bm.groupby(["Diferencia"]).min()
+def diferencia_min():
+    pm_bm.groupby(["Diferencia"]).min()
+    return pm_bm
 
 # Distancia mínima respecto a un punto
-pm_bm = pm_bm.sort_values(by=['NOMBRE_x', 'Diferencia'])
-pm_bm.head(10)
+def min_un_punto():
+    pm_bm = pm_bm.sort_values(by=['NOMBRE_x', 'Diferencia'])
+    return pm_bm
+
+# Filtro de una linea
+def un_valor():
+    pm_bm = pm_bm.sort_values(by=['NOMBRE_x', 'Diferencia'])
+    return pm_bm
+if pm_bm == "NOMBRE_x":
+    print (input ("Introduzca destino"))
